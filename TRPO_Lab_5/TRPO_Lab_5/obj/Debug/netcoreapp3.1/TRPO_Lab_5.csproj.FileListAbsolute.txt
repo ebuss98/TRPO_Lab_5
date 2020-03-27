@@ -1,0 +1,11 @@
+/Users/evgenijbuss/Desktop/говнокоды/TRPO_Lab_5/TRPO_Lab_5/bin/Debug/netcoreapp3.1/TRPO_Lab_5
+/Users/evgenijbuss/Desktop/говнокоды/TRPO_Lab_5/TRPO_Lab_5/bin/Debug/netcoreapp3.1/TRPO_Lab_5.deps.json
+/Users/evgenijbuss/Desktop/говнокоды/TRPO_Lab_5/TRPO_Lab_5/bin/Debug/netcoreapp3.1/TRPO_Lab_5.runtimeconfig.json
+/Users/evgenijbuss/Desktop/говнокоды/TRPO_Lab_5/TRPO_Lab_5/bin/Debug/netcoreapp3.1/TRPO_Lab_5.runtimeconfig.dev.json
+/Users/evgenijbuss/Desktop/говнокоды/TRPO_Lab_5/TRPO_Lab_5/bin/Debug/netcoreapp3.1/TRPO_Lab_5.dll
+/Users/evgenijbuss/Desktop/говнокоды/TRPO_Lab_5/TRPO_Lab_5/bin/Debug/netcoreapp3.1/TRPO_Lab_5.pdb
+/Users/evgenijbuss/Desktop/говнокоды/TRPO_Lab_5/TRPO_Lab_5/obj/Debug/netcoreapp3.1/TRPO_Lab_5.csprojAssemblyReference.cache
+/Users/evgenijbuss/Desktop/говнокоды/TRPO_Lab_5/TRPO_Lab_5/obj/Debug/netcoreapp3.1/TRPO_Lab_5.AssemblyInfoInputs.cache
+/Users/evgenijbuss/Desktop/говнокоды/TRPO_Lab_5/TRPO_Lab_5/obj/Debug/netcoreapp3.1/TRPO_Lab_5.AssemblyInfo.cs
+/Users/evgenijbuss/Desktop/говнокоды/TRPO_Lab_5/TRPO_Lab_5/obj/Debug/netcoreapp3.1/TRPO_Lab_5.dll
+/Users/evgenijbuss/Desktop/говнокоды/TRPO_Lab_5/TRPO_Lab_5/obj/Debug/netcoreapp3.1/TRPO_Lab_5.pdb
